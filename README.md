@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on open-source community
 
-- 💬 Ask me about **Anything Web,Tooling,React**
+- 💬 Ask me about Anything Web, Tooling & React
 
 - 📫 How to reach me **vkkiprop@gmail.com**
 
-- ⚡ Fun fact *I love Afro music*
+- ⚡ Fun fact I love Afro music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
