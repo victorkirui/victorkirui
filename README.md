@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>,Nice to meet you! I'm Victor Kirui. </h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>,nice to meet you! I'm Victor Kirui. </h1>
 <h3 align="center">A passionate Front-end Developer, Mentor & Friend!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorkirui&label=Profile%20views&color=0e75b6&style=flat" alt="victorkirui" /> </p>
