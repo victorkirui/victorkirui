@@ -30,3 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorkirui&" alt="victorkirui" /></p>
 
+##Snake eating my contribution graph
+![snake gif](https://github.com/victorkirui/victorkirui/blob/output/github-contribution-grid-snake.gif)
+
