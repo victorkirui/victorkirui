@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Kirui</h1>
+<h1 align="center">Hi there,I'm Victor Kirui. Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
 <h3 align="center">A passionate Front-end Developer, Mentor & Friend!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorkirui&label=Profile%20views&color=0e75b6&style=flat" alt="victorkirui" /> </p>
@@ -28,4 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorkirui&show_icons=true&locale=en" alt="victorkirui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorkirui&" alt="victorkirui" /></p>
+<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
